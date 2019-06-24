@@ -17,3 +17,5 @@ and this happens every round until one (or several) penguins reaches the finish 
 
 All penguins, both player and computer, move at the same time at the end of the round. If multiple penguins reach the finish line at
 the same time, then the winner is determined by who went furthest past the finish line.
+
+This project was originally created in Visual Studio.
